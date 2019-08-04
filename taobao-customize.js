@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Home - Taobao Customize
 // @namespace    http://tampermonkey.net/
+// @updateURL    https://raw.githubusercontent.com/hydra-a/earth-taobao/master/taobao-customize.js
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
